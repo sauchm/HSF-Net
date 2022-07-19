@@ -3,7 +3,7 @@ HSF-Net Image Restoration for Under-display Camera @MIPI-challenge ECCV,2022
 
 Test:
 
-Our test is divided into the following steps
+Our test is divided into the following steps(note that path modification may occur in 1, 2, and 4)
 
 1.python tool/n2p.py # makes NPY files convert to PNG format
 
