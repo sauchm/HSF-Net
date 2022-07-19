@@ -12,3 +12,8 @@ Our test is divided into the following steps(note that path modification may occ
 3.python code/test.py # use the trained weight of 200.pth, the results can be viewed in code/results/
 
 4.python tool/p2n.py #makes the results in 3 into NPY format
+
+
+Training: (note that 24 bit depth PNG format photos are required)
+
+python code/test. train. py
