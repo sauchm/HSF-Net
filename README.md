@@ -24,7 +24,8 @@ Our test is divided into the following steps(note that path modification may occ
 4.python tool/p2n.py #makes the results in 3 into NPY format
 
 
-# Train: (note that 24 bit depth PNG format photos are required)
+# Train: 
 
+(note that 24 bit depth PNG format photos are required)
 
 python code/train.py
