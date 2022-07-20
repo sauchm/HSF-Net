@@ -1,14 +1,17 @@
 # HSF-Net
 HSF-Net Image Restoration for Under-display Camera @MIPI-challenge ECCVW,2022
 
-Prerequisites：
+# Prerequisites：
 
 torch 1.7.0
+
 python 3.8
+
 opencv-python 4.2.0.32
 
 
-Test:
+
+# Test:
 
 Our test is divided into the following steps(note that path modification may occur in step 1, 2, and 4)
 
@@ -21,7 +24,7 @@ Our test is divided into the following steps(note that path modification may occ
 4.python tool/p2n.py #makes the results in 3 into NPY format
 
 
-Train: (note that 24 bit depth PNG format photos are required)
+# Train: (note that 24 bit depth PNG format photos are required)
 
 
 python code/train.py
