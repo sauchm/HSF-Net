@@ -1,6 +1,13 @@
 # HSF-Net
 HSF-Net Image Restoration for Under-display Camera @MIPI-challenge ECCVW,2022
 
+Prerequisites：
+
+torch 1.7.0
+python 3.8
+opencv-python 4.2.0.32
+
+
 Test:
 
 Our test is divided into the following steps(note that path modification may occur in step 1, 2, and 4)
