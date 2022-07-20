@@ -16,4 +16,5 @@ Our test is divided into the following steps(note that path modification may occ
 
 Train: (note that 24 bit depth PNG format photos are required)
 
+
 python code/train.py
